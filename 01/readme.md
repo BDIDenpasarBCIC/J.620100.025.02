@@ -1,0 +1,2 @@
+# Mempersiapkan kode program
+
